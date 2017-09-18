@@ -37,6 +37,10 @@ eaa2f80ee3844c93eb3d2778a6d0ca30  Ransom_Builder.zip
 <b>Ransomware Hidden Tear ( Recoded )</b>
 
 ab899444c23d88f5e6f460f34049b709  HT.zip
+
+<b>Ransom Linux</b>
+
+127948c0cb15d9a86f6c23d5cb673006  RansomLinux.zip
 </p>
 </blockquote>
 
@@ -50,6 +54,8 @@ ab899444c23d88f5e6f460f34049b709  HT.zip
 <p><a href="https://youtu.be/_nitllZbDi8">Ransomware Builder</a></p>
 
 <p><a href="https://youtu.be/rFKSe8F-K-Q">Ransomware Hidden Tear ( Recoded )</a></p>
+
+<p><a href="https://youtu.be/LqIQV97FvrU">Ransom Linux</a></p>
 
 </p>
 </blockquote>
